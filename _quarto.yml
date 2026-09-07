@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Research Seminar"
+  title: "Seminario de investigación - Grupos 47 y 88"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: syllabus.qmd
-        text: Syllabus
+      #- href: syllabus.qmd
+      #  text: Syllabus
 
 format:
   html:
