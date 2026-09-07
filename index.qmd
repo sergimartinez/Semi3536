@@ -1,29 +1,22 @@
 ---
-title: "Research Seminar"
-subtitle: "Group 45 · BA in Intl. Studies and Political Science · University Carlos III of Madrid"
+title: "Seminario de investigación"
+subtitle: "Grupos 47 y 88 · Universidad Carlos III de Madrid"
 ---
 
-## Practical information
+## Información práctica
 
-**Prof**: Sergi Martínez
+**Docentes**: Sergi Martínez (smsoler@clio.uc3m.es, horas de oficina los martes de 10:00 a 13:00 bajo petición) y Juan Benito (jubenite@clio.uc3m.es) 
 
-**Contact**: smsoler@clio.uc3m.es
+**Magistrales:** Lunes, 18:00–19:30, Aula 9.2.07
 
-**Office hours**: Tuesdays 10:00–13:00 (to be requested by email)
-
-**Lecture (MAG):** Fridays, 12:30–14:00, Room 9.1.01
-
-**Seminar (RED):** Mondays, 12:30–14:00, Room 6.01.02
+**Reducidas:** 
+  - Grupo 88: Miércoles, 19:45-21:15, Aula 6.1.01 BIS
+  - Grupo 47: Jueves, 18:00-19:30, Aula 10.1.06
 
 
-## Schedule
+## Diapositivas de las sesiones magistrales
 
-| Session | Topic | Slides |
+| Sesión | Tema | Enlace |
 |---|---|---|
-| L1 | Course presentation | [Slides](L1_Presentacion_Curso.html) |
-| S1 | Ethics and the limits of the method  | [Slides](S1_Fraude_y_Metodo.html) |
-| L2 | From questions to theories | [Slides](L2_Questions_Theories.html) |
-| S2 | Motivating articles, building theories | [Slides](S2_Motivation_Problem.html) |  
-| L3 | From shoe-leather research to experiments | [Slides](L3_shoeleather_experiments.html) |
-| S3 | Writing and commenting on conceptual definitions and lit. reviews | [Slides](S3_Literature_Theory.html) |  
+| M1 | Presentación del curso | [Diapositivas](L1_Presentacion_Curso.html) | 
 
