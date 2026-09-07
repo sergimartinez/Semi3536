@@ -20,9 +20,106 @@ subtitle: "Grupos 47 y 88 · Universidad Carlos III de Madrid"
   - Grupo 47: Jueves, 18:00-19:30, Aula 10.1.06
 
 
+## Calendario de sesiones magistrales y lecturas {.scrollable}
+
+**L1, 7 sept.** Presentación del curso e introducción a la investigación empírica en ciencias sociales y políticas. Formación de grupos para el proyecto del curso y las actividades de sesión reducida.
+
+::: small
+- Schwartz, M. A. (2008). The importance of stupidity in scientific research. *Journal of Cell Science*, 121(11), 1771–1771.
+- Kellstedt & Whitten (2018), *The Fundamentals of Political Science Research*, Cap. 1.
+:::
+
+**L2, 14 sept.** El proceso de investigación I: de la pregunta a las hipótesis.
+
+::: small
+- Nussio, E. (2024). The "Dark Side" of Community Ties: Collective Action and Lynching in Mexico. *American Sociological Review*, 00031224241253268.
+- Baglione (2016), *Writing a Research Paper in Political Science*, Cap. 2.
+- Bonus: blog de Cyrus Samii; Kalyvas, S. N. (2006). *The Logic of Violence in Civil War*. Cambridge University Press. Cap. 7: A theory of selective violence (p. 173–210).
+:::
+
+**L3, 21 sept.** El proceso de investigación II: de shoe-leather a los enfoques experimentales.
+
+::: small
+- Vídeo de Harvard Online sobre John Snow
+- Treisman, D. (2020). Democracy by mistake: How the errors of autocrats trigger transitions to freer government. *American Political Science Review*, 114(3), 792–810.
+- Dunning, T., et al. (2019). Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials. *Science Advances*, 5(7), eaaw2612.
+:::
+
+**L4, 28 sept.** Contrafactuales y medición. Introducción a R.
+
+::: small
+- Fearon, J. D. (1991). Counterfactuals and hypothesis testing in political science. *World Politics*, 43(2), 169–195.
+- Pager, D., & Quillian, L. (2005). Walking the talk? What employers say versus what they do. *American Sociological Review*, 70(3), 355–380.
+:::
+
+**L5, 5 oct.** Métodos cualitativos I: estudios de caso, entrevistas en profundidad, y grupos focales.
+
+::: small
+- Giusti-Rodríguez, M. (2024). From Social Networks to Political Parties: Indigenous Party-Building in Bolivia. *American Political Science Review*, 118(4), 1803–1823.
+- Presentación académica de Álvaro Canalejo-Molero (CSIC): dos formas de usar los grupos focales.
+:::
+
+*(festivo, 12 oct, no hay clase magistral)*
+
+**L6, 19 oct.** Prueba t, valor p, y mínimos cuadrados ordinarios (MCO). Uso de R. 
+
+::: small
+- Gerber, A. and Green, D. (2000). The effect of a nonpartisan get-out-the-vote drive: an experimental study of leafletting. *Journal of Politics*, vol. 62.
+
+- Angrist, J. D., & Pischke, J. S. (2014). *Mastering'metrics: The Path from Cause to Effect*. Princeton University Press. Introducción: p. XI–XV; Cap. 2, Sección 1: p. 47–55.
+:::
+
+**L7, 26 oct.** Regresión multivariante. Regresión con R.
+
+::: small
+- Fearon, J. D., & Laitin, D. D. (2003). Ethnicity, Insurgency, and Civil War. *American Political Science Review*, 97(1), 75–90. [Análisis de replicación]
+- Bolet, D. (2021). Drinking alone: local socio-cultural degradation and radical right support. *Comparative Political Studies*, 54(9), 1653–1692.
+:::
+
+*(festivo, 2 nov, no hay clase magistral)*
+
+**L8, 9 nov.** Experimentos: el patrón de oro.
+
+::: small
+- Prillaman, S. A. (2023). Strength in numbers: how women's groups close India's political gender gap. *American Journal of Political Science*, 67(2), 390–410.
+- Clayton, A., O'Brien, D. Z., & Piscopo, J. M. (2019). All male panels? Representation and democratic legitimacy. *American Journal of Political Science*, 63(1), 113–129.
+- Bonus: Mousa, S. (2020). Building social cohesion between Christians and Muslims through soccer in post-ISIS Iraq. *Science*, 369(6505), 866–870.
+:::
+
+**L9, 16 nov.** ¿Por qué? ¿Cómo? Métodos cualitativos II: etnografía y process tracing.
+
+::: small
+- Berenschot, W. (2010). Everyday mediation: The politics of public service delivery in Gujarat, India. *Development and Change*, 41(5), 883–905.
+- Pavone, T., & Stiansen, Ø. (2022). The shadow effect of courts: Judicial review and the politics of preemptive reform. *American Political Science Review*, 116(1), 322–336.
+:::
+
+**L10, 23 nov.** El tiempo como alternativa: Diferencias en diferencias.
+
+::: small
+- Angrist, J. D., & Pischke, J. S. (2014). *Mastering'metrics*. Cap. 5, Parallel worlds.
+- Montalvo, J. G. (2011). Voting after the bombings. *Review of Economics and Statistics*, 93(4), 1146–1154.
+:::
+
+**L11, 30 nov.** Diseño de regresión discontinua y variables instrumentales. También R. 
+
+::: small
+- Angrist, J. D., & Pischke, J. S. (2014). *Mastering'metrics*. Cap. 6, Getting a little jumpy.
+- Dinas, E., Riera, P., & Roussias, N. (2015). Staying in the first league. *Political Science Research and Methods*, 3(2), 187–204.
+- Dell, M. and Querubín, P. (2018). Nation building through foreign intervention: evidence from discontinuities in military strategies. *The Quarterly Journal of Economics*.
+:::
+
+**L12, 14 dic (último día de clase).** Métodos mixtos y fuera de lo convencional: el verdadero patrón de oro. 
+
+::: small
+- Bos, A. L., Greenlee, J. S., Holman, M. R., Oxley, Z. M., & Lay, J. C. (2022). This one's for the boys: How gendered political socialization limits girls' political ambition and interest. *American Political Science Review*, 116(2), 484–501.
+- Lake, M., & Hartman, A. C. (2025). Institutions as perpetrators: Power and political violence in responses to rape. *Perspectives on Politics*, 1–22.
+:::
+
+
+
 ## Diapositivas de las sesiones magistrales
 
 | Sesión | Tema | Enlace |
 |---|---|---|
-| M1 | Presentación del curso | [Diapositivas](L1_Presentacion_Curso.html) | 
+| M1 | Presentación del curso | [Diapositivas](L1_Presentacion_Curso_ES.html) | 
 
