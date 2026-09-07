@@ -7,9 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      #- href: syllabus.qmd
-      #  text: Syllabus
+        text: Inicio
 
 format:
   html:
