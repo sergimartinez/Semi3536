@@ -2226,74 +2226,6 @@ text-align: center;
 </ul>
 </div>
 </section>
-<section id="estructura-del-curso-el-proyecto-en-grupo-1" class="slide level2 scrollable">
-<h2>Estructura del curso: el proyecto en grupo</h2>
-<p>Los grupos se forman en la primera sesión reducida (9 de septiembre para el grupo 88, 10 de septiembre para el grupo 47); ese día también se fijan las fechas de presentación en grupo. Cada proyecto se desarrolla en tres etapas:</p>
-<div class="cell">
-<details>
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="co">#| echo: false</span></span>
-<span id="cb6-2"><a href="#cb6-2"></a>proj_tbl <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(</span>
-<span id="cb6-3"><a href="#cb6-3"></a>  <span class="at">Parte =</span> <span class="fu">c</span>(</span>
-<span id="cb6-4"><a href="#cb6-4"></a>    <span class="st">&quot;1. Motivación, pregunta, breve argumento basado en la literatura previa&quot;</span>,</span>
-<span id="cb6-5"><a href="#cb6-5"></a>    <span class="st">&quot;2. Corregir errores; diseño cualitativo; breve recopilación y análisis de datos&quot;</span>,</span>
-<span id="cb6-6"><a href="#cb6-6"></a>    <span class="st">&quot;3. Corregir errores; diseño cuantitativo; recopilación de datos, análisis, interpretación&quot;</span></span>
-<span id="cb6-7"><a href="#cb6-7"></a>  ),</span>
-<span id="cb6-8"><a href="#cb6-8"></a>  <span class="at">Peso =</span> <span class="fu">c</span>(<span class="st">&quot;10%&quot;</span>, <span class="st">&quot;15%&quot;</span>, <span class="st">&quot;15%&quot;</span>),</span>
-<span id="cb6-9"><a href="#cb6-9"></a>  <span class="at">Presentacion_G88 =</span> <span class="fu">c</span>(<span class="st">&quot;S4, 30 sept&quot;</span>, <span class="st">&quot;S8, 28 oct&quot;</span>, <span class="st">&quot;S12, 25 nov&quot;</span>),</span>
-<span id="cb6-10"><a href="#cb6-10"></a>  <span class="at">Presentacion_G47 =</span> <span class="fu">c</span>(<span class="st">&quot;S4, 1 oct&quot;</span>, <span class="st">&quot;S8, 29 oct&quot;</span>, <span class="st">&quot;S12, 26 nov&quot;</span>),</span>
-<span id="cb6-11"><a href="#cb6-11"></a>  <span class="at">Entrega =</span> <span class="fu">c</span>(<span class="st">&quot;2 oct&quot;</span>, <span class="st">&quot;1 nov&quot;</span>, <span class="st">&quot;28 nov&quot;</span>),</span>
-<span id="cb6-12"><a href="#cb6-12"></a>  <span class="at">stringsAsFactors =</span> <span class="cn">FALSE</span></span>
-<span id="cb6-13"><a href="#cb6-13"></a>)</span>
-<span id="cb6-14"><a href="#cb6-14"></a></span>
-<span id="cb6-15"><a href="#cb6-15"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(proj_tbl, <span class="at">align =</span> <span class="fu">c</span>(<span class="st">&quot;l&quot;</span>, <span class="st">&quot;c&quot;</span>, <span class="st">&quot;c&quot;</span>, <span class="st">&quot;c&quot;</span>, <span class="st">&quot;c&quot;</span>),</span>
-<span id="cb6-16"><a href="#cb6-16"></a>             <span class="at">col.names =</span> <span class="fu">c</span>(<span class="st">&quot;Parte&quot;</span>, <span class="st">&quot;Peso&quot;</span>, <span class="st">&quot;Presentación G88&quot;</span>, <span class="st">&quot;Presentación G47&quot;</span>, <span class="st">&quot;Entrega&quot;</span>)) <span class="sc">|&gt;</span></span>
-<span id="cb6-17"><a href="#cb6-17"></a>  kableExtra<span class="sc">::</span><span class="fu">kable_styling</span>(<span class="at">font_size =</span> <span class="dv">28</span>, <span class="at">full_width =</span> <span class="cn">TRUE</span>) <span class="sc">|&gt;</span></span>
-<span id="cb6-18"><a href="#cb6-18"></a>  kableExtra<span class="sc">::</span><span class="fu">column_spec</span>(<span class="dv">1</span>, <span class="at">width =</span> <span class="st">&quot;26em&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output-display">
-<table class="table" data-quarto-postprocess="true" style="font-size: 28px; margin-left: auto; margin-right: auto;">
-<thead>
-<tr class="header">
-<th style="text-align: left;" data-quarto-table-cell-role="th">Parte</th>
-<th style="text-align: center;" data-quarto-table-cell-role="th">Peso</th>
-<th style="text-align: center;" data-quarto-table-cell-role="th">Presentación G88</th>
-<th style="text-align: center;" data-quarto-table-cell-role="th">Presentación G47</th>
-<th style="text-align: center;" data-quarto-table-cell-role="th">Entrega</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left; width: 26em;">1. Motivación, pregunta, breve argumento basado en la literatura previa</td>
-<td style="text-align: center;">10%</td>
-<td style="text-align: center;">S4, 30 sept</td>
-<td style="text-align: center;">S4, 1 oct</td>
-<td style="text-align: center;">2 oct</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; width: 26em;">2. Corregir errores; diseño cualitativo; breve recopilación y análisis de datos</td>
-<td style="text-align: center;">15%</td>
-<td style="text-align: center;">S8, 28 oct</td>
-<td style="text-align: center;">S8, 29 oct</td>
-<td style="text-align: center;">1 nov</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; width: 26em;">3. Corregir errores; diseño cuantitativo; recopilación de datos, análisis, interpretación</td>
-<td style="text-align: center;">15%</td>
-<td style="text-align: center;">S12, 25 nov</td>
-<td style="text-align: center;">S12, 26 nov</td>
-<td style="text-align: center;">28 nov</td>
-</tr>
-</tbody>
-</table>
-
-
-</div>
-</div>
-<div class="fragment">
-<p><strong>Horario de tutorías</strong>: solicitar por correo electrónico, martes de 10:00 a 13:00. Aprovechadlas, un proyecto que se desvía del rumbo, o un script que no compila, es el mayor riesgo para vuestra nota.</p>
-</div>
-</section>
 <section id="una-nota-sobre-el-uso-de-herramientas-de-ia" class="slide level2">
 <h2>Una nota sobre el uso de herramientas de IA</h2>
 <ul>
@@ -2355,9 +2287,9 @@ text-align: center;
 <div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource css number-lines code-with-copy"><code class="sourceCode css"><span id="cb7-1"><a href="#cb7-1"></a><span class="fu">.center</span> h2 {</span>
-<span id="cb7-2"><a href="#cb7-2"></a>  <span class="kw">text-align</span>: <span class="dv">center</span><span class="op">;</span></span>
-<span id="cb7-3"><a href="#cb7-3"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource css number-lines code-with-copy"><code class="sourceCode css"><span id="cb6-1"><a href="#cb6-1"></a><span class="fu">.center</span> h2 {</span>
+<span id="cb6-2"><a href="#cb6-2"></a>  <span class="kw">text-align</span>: <span class="dv">center</span><span class="op">;</span></span>
+<span id="cb6-3"><a href="#cb6-3"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <style type="text/css">
 .center h2 {
