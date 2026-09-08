@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Seminario de investigación - Grupos 47 y 88"
+  title: "Seminario de investigación - Grupos 35 y 36"
   navbar:
     left:
       - href: index.qmd
