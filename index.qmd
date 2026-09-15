@@ -121,4 +121,5 @@ subtitle: "Grupos 35 y 36 · Universidad Carlos III de Madrid"
 | Sesión | Tema | Enlace |
 |---|---|---|
 | M1 | Presentación del curso | [Diapositivas](L1_Presentacion_Curso_ES1.html) | 
+| M2 | Preguntas y teorías | [Diapositivas](L2_Preguntas_Teorias2.html) | 
 
