@@ -73,7 +73,15 @@ subtitle: "Grupos 35 y 36 · Universidad Carlos III de Madrid"
 - Bolet, D. (2021). Drinking alone: local socio-cultural degradation and radical right support. *Comparative Political Studies*, 54(9), 1653–1692.
 :::
 
-**L8, 27 oct.** Regresión multivariable II y experimentos: el patrón de oro.
+**L8, 27 oct.** ¿Por qué? ¿Cómo? Métodos cualitativos II: etnografía y process tracing.
+
+::: small
+- Berenschot, W. (2010). Everyday mediation: The politics of public service delivery in Gujarat, India. *Development and Change*, 41(5), 883–905.
+- Pavone, T., & Stiansen, Ø. (2022). The shadow effect of courts: Judicial review and the politics of preemptive reform. *American Political Science Review*, 116(1), 322–336.
+:::
+
+
+**L9, 3 nov.** Regresión multivariable II y experimentos: el patrón de oro.
 
 ::: small
 - Prillaman, S. A. (2023). Strength in numbers: how women's groups close India's political gender gap. *American Journal of Political Science*, 67(2), 390–410.
@@ -81,12 +89,6 @@ subtitle: "Grupos 35 y 36 · Universidad Carlos III de Madrid"
 - Bonus: Mousa, S. (2020). Building social cohesion between Christians and Muslims through soccer in post-ISIS Iraq. *Science*, 369(6505), 866–870.
 :::
 
-**L9, 3 nov.** ¿Por qué? ¿Cómo? Métodos cualitativos II: etnografía y process tracing.
-
-::: small
-- Berenschot, W. (2010). Everyday mediation: The politics of public service delivery in Gujarat, India. *Development and Change*, 41(5), 883–905.
-- Pavone, T., & Stiansen, Ø. (2022). The shadow effect of courts: Judicial review and the politics of preemptive reform. *American Political Science Review*, 116(1), 322–336.
-:::
 
 **L10, 10 nov.** El tiempo como alternativa: diferencias en diferencias.
 
@@ -127,4 +129,5 @@ subtitle: "Grupos 35 y 36 · Universidad Carlos III de Madrid"
 | M5 | Métodos cualitativos 1: Entrevista y grupo focal | [Diapositivas](L5_Quali1.html) |
 | M6 | Métodos cuantitativos 1: R, del t-test a la regresión | [Diapositivas](L6_Quant1.html) |
 | M7 | Métodos cuantitativos 2 | [Diapositivas](L7.html) |
+| M8 | Métodos cualitativos 2 y cualitativos 2 (cont.)| [Diapositivas](L8_ES.html) |
 
